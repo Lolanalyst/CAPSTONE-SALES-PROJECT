@@ -48,3 +48,11 @@ EDA involves answering some questions to create insights. Questions like
 
 
 ### Data Visualization
+
+
+![CAPSTONE SALES 3](https://github.com/user-attachments/assets/d6225a42-aa75-4538-b913-bbe3d394edfd)
+
+
+![CAPTONE DASHBOARD](https://github.com/user-attachments/assets/38fd0369-c472-459b-9d13-0881cf0606cd)
+
+
